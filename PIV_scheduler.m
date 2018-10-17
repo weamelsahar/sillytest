@@ -1,17 +1,6 @@
 %% PIV_scheduler
 %   Introduction:
 
-%
-%   Project files structures:
-%   The scheduler can be used to work with projects exported from PIV meas-
-%   urment tools (eg. DynamicStudio/Dantec). The project needs to be arran-
-%   ged to follow the following sturcture:
-%   Main_folder >>
-%                  %%Run A set of case studies (eg. different flow speeds)
-%                  >>10msec
-%                       %% Each case study can have several feilds of view
-%                       %% numbered sequentially (FOV'number')as follows.
-%                       >> FOV1
 %                           %% Each FOV* folder should contain another
 %                           %% folder called 'Renamed' including all the
 %                           %% image pairs and the maksing image according
