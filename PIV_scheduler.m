@@ -1,13 +1,6 @@
 %% PIV_scheduler
 %   Introduction:
-%   This piece of Matlab script can be used to schedule PIV (particle image
-%   velocimetry) vector feild extraction. The code implements a C based ex-
-%   ecutable for vector feild image extraction developed in Von Karman ins-
-%   titute by F.Scarano "widim33_2.exe".(To be used only at the University-
-%   of Bristol) You have to place "widim33_2.exe" in the same folder along-
-%   with this script POV_scheduler.
-%   Please refer to (r.theunissen@bristol.ac.uk, from:F.Scarano@tudelft.nl)
-%   for the latter dependency and further permissions.
+
 %
 %   Project files structures:
 %   The scheduler can be used to work with projects exported from PIV meas-
